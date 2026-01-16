@@ -112,3 +112,5 @@ Alias: $goal-achievement = http://terminology.hl7.org/CodeSystem/goal-achievemen
 Alias: $goal-category = http://terminology.hl7.org/CodeSystem/goal-category
 Alias: $goal-status = http://hl7.org/fhir/goal-status
 Alias: $goal-Priority = http://terminology.hl7.org/CodeSystem/goal-priority
+Alias: $service-request-status = http://hl7.org/fhir/request-status
+Alias: $service-request-intent = http://hl7.org/fhir/request-intent
