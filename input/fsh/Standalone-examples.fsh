@@ -30,3 +30,15 @@ Description: "Temporary Specimen instance for lab (based on drafted UZCoreSpecim
 * collection.quantity = 3 'mL' "mL"
 * collection.fastingStatusCodeableConcept = $v2-0916#NF "The patient indicated they did not fast prior to the procedure."
 * note[0].text = "Venous blood collected into EDTA tube. No visible hemolysis."
+
+Instance: example-cbc-order
+InstanceOf: ServiceRequest
+Usage: #example
+Description: "Example ServiceRequest for CBC (Umumiy qon tahlili) order"
+* status = #active
+* intent = #order
+* code = observation-lab-research-codes-cs#lab-A "CBC panel"
+* subject = Reference(Patient/example-salim)
+* requester = Reference(Practitioner/example-practitioner)
+* authoredOn = "2025-11-04T08:00:00Z"
+* specimen[0] = Reference(Specimen/specimen-example-blood)
