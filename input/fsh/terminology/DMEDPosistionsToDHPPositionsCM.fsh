@@ -358,7 +358,7 @@ Description: "DMED Position and Professions to DHP Position and Professions Conc
 * group[=].element[+].code = #223
 * group[=].element[=].display = "Oftalmolog" // ru: Офтальмолог
 * group[=].element[=].target[+].code = #2267.3
-* group[=].element[=].target[=].display = "Vrach oftalmolog"
+* group[=].element[=].target[=].display = "Vrach oftalьmolog"
 * group[=].element[=].target[=].relationship = #equivalent
 
 * group[=].element[+].code = #242
