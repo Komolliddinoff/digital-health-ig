@@ -1,24 +1,24 @@
-CodeSystem: ObservationCategoryCS
-Id: observation-category-cs
-Title: "Observation category translations"
-Description: "Observation category supplement with translations in Uzbek and Russian"
-* insert SupplementCodeSystemDraft(observation-category-cs, $observation-category, 5.0.0)
+CodeSystem: ObservationCategoryCodesCS
+Id: observation-category-codes-cs
+Title: "Observation category codes translations"
+Description: "Observation category codes supplement with translations in Uzbek and Russian"
+* insert SupplementCodeSystemDraft(observation-category-codes-cs, $observation-category, 5.0.0)
 
 * #social-history
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Социальная история"
+  * ^designation[=].value = "Социальный анамнез"
   * ^designation[+].language = #uz
-  * ^designation[=].value = "Ijtimoiy tarix"
+  * ^designation[=].value = "Ijtimoiy anamnez"
 * #vital-signs
   * ^designation[0].language = #ru
   * ^designation[=].value = "Жизненно важные показатели"
   * ^designation[+].language = #uz
-  * ^designation[=].value = "Hayotiy muhim ko'rsatkichlar"
+  * ^designation[=].value = "Hayotiy ko‘rsatkichlar"
 * #imaging
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Визуализация"
+  * ^designation[=].value = "Скрининг"
   * ^designation[+].language = #uz
-  * ^designation[=].value = "Tasvirlash"
+  * ^designation[=].value = "Skrining (rentgen, MRT)"
 * #laboratory
   * ^designation[0].language = #ru
   * ^designation[=].value = "Лаборатория"
@@ -26,26 +26,26 @@ Description: "Observation category supplement with translations in Uzbek and Rus
   * ^designation[=].value = "Laboratoriya"
 * #procedure
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Процедура"
+  * ^designation[=].value = "Процедуры"
   * ^designation[+].language = #uz
-  * ^designation[=].value = "Muolaja"
+  * ^designation[=].value = "Tibbiy muolajalar"
 * #survey
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Опрос/анкетирование"
+  * ^designation[=].value = "Опрос"
   * ^designation[+].language = #uz
-  * ^designation[=].value = "So'rov"
+  * ^designation[=].value = "So‘rovnoma"
 * #exam
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Клинический осмотр"
+  * ^designation[=].value = "Осмотр"
   * ^designation[+].language = #uz
-  * ^designation[=].value = "Klinik ko'rik"
+  * ^designation[=].value = "Ko‘rik"
 * #therapy
   * ^designation[0].language = #ru
   * ^designation[=].value = "Терапия"
   * ^designation[+].language = #uz
-  * ^designation[=].value = "Terapiya"
+  * ^designation[=].value = "Davolash"
 * #activity
   * ^designation[0].language = #ru
   * ^designation[=].value = "Активность"
   * ^designation[+].language = #uz
-  * ^designation[=].value = "Faollik"
+  * ^designation[=].value = "Faoliyat"
