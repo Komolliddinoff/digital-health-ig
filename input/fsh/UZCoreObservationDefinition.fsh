@@ -31,4 +31,4 @@ Description: "Uzbekistan Core ObservationDefinition profile, used to define reus
 * qualifiedValue.appliesTo from $referencerange-appliesto (example)
 * qualifiedValue.gender from AdministrativeGenderVS (required)
 * qualifiedValue.rangeCategory from ObservationRangeCategoryVS (required)
-* component.code from $loinc-vs (example)
+* component.code from ObservationCodesVS (example)
