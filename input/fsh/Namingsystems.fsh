@@ -416,7 +416,6 @@ Usage: #definition
 * uniqueId[=].value = $pension-number
 * uniqueId[=].preferred = true
 
-//
 Instance: immunization-identifier
 InstanceOf: NamingSystem
 Usage: #definition
