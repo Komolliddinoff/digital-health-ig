@@ -4,1503 +4,1003 @@ Title: "DMED Country (UZ/RU)"
 Description: "Uzbek and Russian designations for DMED Country codes"
 * insert OriginalCodeSystemDraft(dmed-country-cs)
 
-* #1 "Senegal"
+* #1
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сенегал"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Senegal"
 
-* #2 "Farer orollari"
+* #2
   * ^designation[0].language = #ru
   * ^designation[=].value = "Фарерские острова"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Faroe Islands"
 
-* #3 "Salvador"
+* #3
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сальвадор"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "El Salvador"
 
-* #4 "Angilya"
+* #4
   * ^designation[0].language = #ru
   * ^designation[=].value = "Ангилья"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Anguilla"
 
-* #5 "Uganda"
+* #5
   * ^designation[0].language = #ru
   * ^designation[=].value = "Уганда"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Uganda"
 
-* #6 "Mali"
+* #6
   * ^designation[0].language = #ru
   * ^designation[=].value = "Мали"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Mali"
 
-* #7 "Nikaragua"
+* #7
   * ^designation[0].language = #ru
   * ^designation[=].value = "Никарагуа"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Nicaragua"
 
-* #8 "Zimbabve"
+* #8
   * ^designation[0].language = #ru
   * ^designation[=].value = "Зимбабве"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Zimbabwe"
 
-* #9 "Kamerun"
+* #9
   * ^designation[0].language = #ru
   * ^designation[=].value = "Камерун"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Cameroon"
 
-* #10 "Shimoliy Makedoniya"
+* #10
   * ^designation[0].language = #ru
   * ^designation[=].value = "Северная Македония"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "North Macedonia"
 
-* #11 "Laos"
+* #11
   * ^designation[0].language = #ru
   * ^designation[=].value = "Лаос"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Laos"
 
-* #12 "Urugvay"
+* #12
   * ^designation[0].language = #ru
   * ^designation[=].value = "Уругвай"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Uruguay"
 
-* #13 "Malta"
+* #13
   * ^designation[0].language = #ru
   * ^designation[=].value = "Мальта"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Malta"
 
-* #14 "Chexiya"
+* #14
   * ^designation[0].language = #ru
   * ^designation[=].value = "Чехия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Czechia"
 
-* #15 "Turkmaniston"
+* #15
   * ^designation[0].language = #ru
   * ^designation[=].value = "Туркмения"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Turkmenistan"
 
-* #16 "Aland orollari"
+* #16
   * ^designation[0].language = #ru
   * ^designation[=].value = "Аландские острова"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Aland Islands"
 
-* #17 "Dominikan Respublikasi"
+* #17
   * ^designation[0].language = #ru
   * ^designation[=].value = "Доминиканская Республика"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Dominican Republic"
 
-* #18 "Yaman"
+* #18
   * ^designation[0].language = #ru
   * ^designation[=].value = "Йемен"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Yemen"
 
-* #19 "AQSH yondosh kichik orollari"
+* #19
   * ^designation[0].language = #ru
   * ^designation[=].value = "Внешние малые острова США"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "United States Minor Outlying Islands"
 
-* #20 "Ukraina"
+* #20
   * ^designation[0].language = #ru
   * ^designation[=].value = "Украина"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Ukraine"
 
-* #21 "Chili"
+* #21
   * ^designation[0].language = #ru
   * ^designation[=].value = "Чили"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Chile"
 
-* #22 "Gvineya-Bisau"
+* #22
   * ^designation[0].language = #ru
   * ^designation[=].value = "Гвинея-Бисау"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Guinea-Bissau"
 
-* #23 "Rossiya"
+* #23
   * ^designation[0].language = #ru
   * ^designation[=].value = "Россия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Russia"
 
-* #24 "Quvayt"
+* #24
   * ^designation[0].language = #ru
   * ^designation[=].value = "Кувейт"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Kuwait"
 
-* #25 "Liviya"
+* #25
   * ^designation[0].language = #ru
   * ^designation[=].value = "Ливия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Libya"
 
-* #26 "Mavritaniya"
+* #26
   * ^designation[0].language = #ru
   * ^designation[=].value = "Мавритания"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Mauritania"
 
-* #27 "Filippin"
+* #27
   * ^designation[0].language = #ru
   * ^designation[=].value = "Филиппины"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Philippines"
 
-* #28 "Tuvalu"
+* #28
   * ^designation[0].language = #ru
   * ^designation[=].value = "Тувалу"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Tuvalu"
 
-* #29 "Syerra-Leone"
+* #29
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сьерра-Леоне"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Sierra Leone"
 
-* #30 "Myanma"
+* #30
   * ^designation[0].language = #ru
   * ^designation[=].value = "Мьянма"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Myanmar"
 
-* #31 "Somali"
+* #31
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сомали"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Somalia"
 
-* #32 "Lyuksemburg"
+* #32
   * ^designation[0].language = #ru
   * ^designation[=].value = "Люксембург"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Luxembourg"
 
-* #33 "Qatar"
+* #33
   * ^designation[0].language = #ru
   * ^designation[=].value = "Катар"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Qatar"
 
-* #34 "Isroil"
+* #34
   * ^designation[0].language = #ru
   * ^designation[=].value = "Израиль"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Israel"
 
-* #35 "Lesoto"
+* #35
   * ^designation[0].language = #ru
   * ^designation[=].value = "Лесото"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Lesotho"
 
-* #36 "Niger"
+* #36
   * ^designation[0].language = #ru
   * ^designation[=].value = "Нигер"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Niger"
 
-* #37 "Madagaskar"
+* #37
   * ^designation[0].language = #ru
   * ^designation[=].value = "Мадагаскар"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Madagascar"
 
-* #38 "Ispaniya"
+* #38
   * ^designation[0].language = #ru
   * ^designation[=].value = "Испания"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Spain"
 
-* #39 "Gvadelupa"
+* #39
   * ^designation[0].language = #ru
   * ^designation[=].value = "Гваделупа"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Guadeloupe"
 
-* #40 "San-Marino"
+* #40
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сан-Марино"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "San Marino"
 
-* #41 "Sloveniya"
+* #41
   * ^designation[0].language = #ru
   * ^designation[=].value = "Словения"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Slovenia"
 
-* #42 "Janubiy Sudan"
+* #42
   * ^designation[0].language = #ru
   * ^designation[=].value = "Южный Судан"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "South Sudan"
 
-* #43 "Bahrayn"
+* #43
   * ^designation[0].language = #ru
   * ^designation[=].value = "Бахрейн"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Bahrain"
 
-* #44 "Daniya"
+* #44
   * ^designation[0].language = #ru
   * ^designation[=].value = "Дания"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Denmark"
 
-* #45 "Gabon"
+* #45
   * ^designation[0].language = #ru
   * ^designation[=].value = "Габон"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Gabon"
 
-* #46 "Norfolk oroli"
+* #46
   * ^designation[0].language = #ru
   * ^designation[=].value = "Норфолк"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Norfolk Island"
 
-* #47 "Malayziya"
+* #47
   * ^designation[0].language = #ru
   * ^designation[=].value = "Малайзия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Malaysia"
 
-* #48 "Meksika"
+* #48
   * ^designation[0].language = #ru
   * ^designation[=].value = "Мексика"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Mexico"
 
-* #49 "Fransuz Polineziyasi"
+* #49
   * ^designation[0].language = #ru
   * ^designation[=].value = "Французская Полинезия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "French Polynesia"
 
-* #50 "Chad"
+* #50
   * ^designation[0].language = #ru
   * ^designation[=].value = "Чад"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Chad"
 
-* #51 "Shveysariya"
+* #51
   * ^designation[0].language = #ru
   * ^designation[=].value = "Швейцария"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Switzerland"
 
-* #52 "Uollis va Futuna"
+* #52
   * ^designation[0].language = #ru
   * ^designation[=].value = "Уоллис и Футуна"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Wallis and Futuna"
 
-* #53 "Folklend orollari"
+* #53
   * ^designation[0].language = #ru
   * ^designation[=].value = "Фолклендские острова"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Falkland Islands"
 
-* #54 "Kot-d'Ivuar"
+* #54
   * ^designation[0].language = #ru
   * ^designation[=].value = "Кот-д’Ивуар"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Cote d'Ivoire"
 
-* #55 "Puerto-Riko"
+* #55
   * ^designation[0].language = #ru
   * ^designation[=].value = "Пуэрто-Рико"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Puerto Rico"
 
-* #56 "Mavrikiy"
+* #56
   * ^designation[0].language = #ru
   * ^designation[=].value = "Маврикий"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Mauritius"
 
-* #57 "Bangladesh"
+* #57
   * ^designation[0].language = #ru
   * ^designation[=].value = "Бангладеш"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Bangladesh"
 
-* #58 "Gibraltar"
+* #58
   * ^designation[0].language = #ru
   * ^designation[=].value = "Гибралтар"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Gibraltar"
 
-* #59 "Suriya"
+* #59
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сирия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Syria"
 
-* #60 "Albaniya"
+* #60
   * ^designation[0].language = #ru
   * ^designation[=].value = "Албания"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Albania"
 
-* #61 "Estoniya"
+* #61
   * ^designation[0].language = #ru
   * ^designation[=].value = "Эстония"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Estonia"
 
-* #62 "Komor orollari"
+* #62
   * ^designation[0].language = #ru
   * ^designation[=].value = "Коморы"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Comoros"
 
-* #63 "Britaniyaning Hind okeanidagi hududi"
+* #63
   * ^designation[0].language = #ru
   * ^designation[=].value = "Британская территория в Индийском океане"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "British Indian Ocean Territory"
 
-* #64 "Ruminiya"
+* #64
   * ^designation[0].language = #ru
   * ^designation[=].value = "Румыния"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Romania"
 
-* #65 "Venesuela"
+* #65
   * ^designation[0].language = #ru
   * ^designation[=].value = "Венесуэла"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Venezuela"
 
-* #66 "Sen-Pyer va Mikelon"
+* #66
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сен-Пьер и Микелон"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Saint Pierre and Miquelon"
 
-* #67 "Janubiy Georgiya va Janubiy Sendvich orollari"
+* #67
   * ^designation[0].language = #ru
   * ^designation[=].value = "Южная Георгия и Южные Сандвичевы острова"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "South Georgia and the South Sandwich Islands"
 
-* #68 "Slovakiya"
+* #68
   * ^designation[0].language = #ru
   * ^designation[=].value = "Словакия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Slovakia"
 
-* #69 "Xorvatiya"
+* #69
   * ^designation[0].language = #ru
   * ^designation[=].value = "Хорватия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Croatia"
 
-* #70 "Esvatini"
+* #70
   * ^designation[0].language = #ru
   * ^designation[=].value = "Свазиленд"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Eswatini"
 
-* #71 "Gana"
+* #71
   * ^designation[0].language = #ru
   * ^designation[=].value = "Гана"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Ghana"
 
-* #72 "Gretsiya"
+* #72
   * ^designation[0].language = #ru
   * ^designation[=].value = "Греция"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Greece"
 
-* #73 "Monako"
+* #73
   * ^designation[0].language = #ru
   * ^designation[=].value = "Монако"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Monaco"
 
-* #74 "Sent-Kits va Nevis"
+* #74
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сент-Китс и Невис"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Saint Kitts and Nevis"
 
-* #75 "Misr"
+* #75
   * ^designation[0].language = #ru
   * ^designation[=].value = "Египет"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Egypt"
 
-* #76 "Koreya Xalq Demokratik Respublikasi"
+* #76
   * ^designation[0].language = #ru
   * ^designation[=].value = "Северная Корея"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "North Korea"
 
-* #77 "Liberiya"
+* #77
   * ^designation[0].language = #ru
   * ^designation[=].value = "Либерия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Liberia"
 
-* #78 "Gambiya"
+* #78
   * ^designation[0].language = #ru
   * ^designation[=].value = "Гамбия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Gambia"
 
-* #79 "Norvegiya"
+* #79
   * ^designation[0].language = #ru
   * ^designation[=].value = "Норвегия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Norway"
 
-* #80 "Sent-Vinsent va Grenadina"
+* #80
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сент-Винсент и Гренадины"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Saint Vincent and the Grenadines"
 
-* #81 "Gaiti"
+* #81
   * ^designation[0].language = #ru
   * ^designation[=].value = "Гаити"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Haiti"
 
-* #82 "Kipr"
+* #82
   * ^designation[0].language = #ru
   * ^designation[=].value = "Кипр"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Cyprus"
 
-* #83 "Birlashgan Arab Amirliklari"
+* #83
   * ^designation[0].language = #ru
   * ^designation[=].value = "Объединённые Арабские Эмираты"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "United Arab Emirates"
 
-* #84 "Makao"
+* #84
   * ^designation[0].language = #ru
   * ^designation[=].value = "Макао"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Macao"
 
-* #85 "Eritreya"
+* #85
   * ^designation[0].language = #ru
   * ^designation[=].value = "Эритрея"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Eritrea"
 
-* #86 "Papua Yangi Gvineya"
+* #86
   * ^designation[0].language = #ru
   * ^designation[=].value = "Папуа — Новая Гвинея"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Papua New Guinea"
 
-* #87 "Tojikiston"
+* #87
   * ^designation[0].language = #ru
   * ^designation[=].value = "Таджикистан"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Tajikistan"
 
-* #88 "Barbados"
+* #88
   * ^designation[0].language = #ru
   * ^designation[=].value = "Барбадос"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Barbados"
 
-* #89 "Vyetnam"
+* #89
   * ^designation[0].language = #ru
   * ^designation[=].value = "Вьетнам"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Vietnam"
 
-* #90 "Panama"
+* #90
   * ^designation[0].language = #ru
   * ^designation[=].value = "Панама"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Panama"
 
-* #91 "Grenada"
+* #91
   * ^designation[0].language = #ru
   * ^designation[=].value = "Гренада"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Grenada"
 
-* #92 "Antigua va Barbuda"
+* #92
   * ^designation[0].language = #ru
   * ^designation[=].value = "Антигуа и Барбуда"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Antigua and Barbuda"
 
-* #93 "Italiya"
+* #93
   * ^designation[0].language = #ru
   * ^designation[=].value = "Италия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Italy"
 
-* #94 "Markaziy Afrika Respublikasi"
+* #94
   * ^designation[0].language = #ru
   * ^designation[=].value = "Центральноафриканская Республика"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Central African Republic"
 
-* #95 "Avstriya"
+* #95
   * ^designation[0].language = #ru
   * ^designation[=].value = "Австрия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Austria"
 
-* #96 "Tunis"
+* #96
   * ^designation[0].language = #ru
   * ^designation[=].value = "Тунис"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Tunisia"
 
-* #97 "Iordaniya"
+* #97
   * ^designation[0].language = #ru
   * ^designation[=].value = "Иордания"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Jordan"
 
-* #98 "Kuk orollari"
+* #98
   * ^designation[0].language = #ru
   * ^designation[=].value = "Острова Кука"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Cook Islands"
 
-* #99 "Ekvatorial Gvineya"
+* #99
   * ^designation[0].language = #ru
   * ^designation[=].value = "Экваториальная Гвинея"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Equatorial Guinea"
 
-* #100 "Sint-Marten"
+* #100
   * ^designation[0].language = #ru
   * ^designation[=].value = "Синт-Мартен"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Sint Maarten (Dutch part)"
 
-* #101 "Bruney"
+* #101
   * ^designation[0].language = #ru
   * ^designation[=].value = "Бруней"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Brunei Darussalam"
 
-* #102 "Serbiya"
+* #102
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сербия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Serbia"
 
-* #103 "Saudiya Arabistoni"
+* #103
   * ^designation[0].language = #ru
   * ^designation[=].value = "Саудовская Аравия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Saudi Arabia"
 
-* #104 "Marokash"
+* #104
   * ^designation[0].language = #ru
   * ^designation[=].value = "Марокко"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Morocco"
 
-* #105 "Dominika"
+* #105
   * ^designation[0].language = #ru
   * ^designation[=].value = "Доминика"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Dominica"
 
-* #106 "Xitoy"
+* #106
   * ^designation[0].language = #ru
   * ^designation[=].value = "Китай"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "China"
 
-* #107 "Latviya"
+* #107
   * ^designation[0].language = #ru
   * ^designation[=].value = "Латвия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Latvia"
 
-* #108 "Mozambik"
+* #108
   * ^designation[0].language = #ru
   * ^designation[=].value = "Мозамбик"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Mozambique"
 
-* #109 "Vatikan"
+* #109
   * ^designation[0].language = #ru
   * ^designation[=].value = "Ватикан"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Holy See"
 
-* #110 "Burkina-Faso"
+* #110
   * ^designation[0].language = #ru
   * ^designation[=].value = "Буркина-Фасо"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Burkina Faso"
 
-* #111 "Nepal"
+* #111
   * ^designation[0].language = #ru
   * ^designation[=].value = "Непал"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Nepal"
 
-* #112 "Rojdestvo oroli"
+* #112
   * ^designation[0].language = #ru
   * ^designation[=].value = "Остров Рождества"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Christmas Island"
 
-* #113 "Peru"
+* #113
   * ^designation[0].language = #ru
   * ^designation[=].value = "Перу"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Peru"
 
-* #114 "Ozarbayjon"
+* #114
   * ^designation[0].language = #ru
   * ^designation[=].value = "Азербайджан"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Azerbaijan"
 
-* #115 "Seyshell orollari"
+* #115
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сейшельские Острова"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Seychelles"
 
-* #116 "Tonga"
+* #116
   * ^designation[0].language = #ru
   * ^designation[=].value = "Тонга"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Tonga"
 
-* #117 "Moldaviya"
+* #117
   * ^designation[0].language = #ru
   * ^designation[=].value = "Молдавия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Moldova"
 
-* #118 "Hindiston"
+* #118
   * ^designation[0].language = #ru
   * ^designation[=].value = "Индия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "India"
 
-* #119 "Belarus"
+* #119
   * ^designation[0].language = #ru
   * ^designation[=].value = "Беларусь"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Belarus"
 
-* #120 "Argentina"
+* #120
   * ^designation[0].language = #ru
   * ^designation[=].value = "Аргентина"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Argentina"
 
-* #121 "Livan"
+* #121
   * ^designation[0].language = #ru
   * ^designation[=].value = "Ливан"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Lebanon"
 
-* #122 "Paragvay"
+* #122
   * ^designation[0].language = #ru
   * ^designation[=].value = "Парагвай"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Paraguay"
 
-* #123 "Vanuatu"
+* #123
   * ^designation[0].language = #ru
   * ^designation[=].value = "Вануату"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Vanuatu"
 
-* #124 "Maldiv orollari"
+* #124
   * ^designation[0].language = #ru
   * ^designation[=].value = "Мальдивы"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Maldives"
 
-* #125 "Kosta-Rika"
+* #125
   * ^designation[0].language = #ru
   * ^designation[=].value = "Коста-Рика"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Costa Rica"
 
-* #126 "Singapur"
+* #126
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сингапур"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Singapore"
 
-* #127 "Fiji"
+* #127
   * ^designation[0].language = #ru
   * ^designation[=].value = "Фиджи"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Fiji"
 
-* #128 "Bosniya va Gertsegovina"
+* #128
   * ^designation[0].language = #ru
   * ^designation[=].value = "Босния и Герцеговина"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Bosnia and Herzegovina"
 
-* #129 "Jersi"
+* #129
   * ^designation[0].language = #ru
   * ^designation[=].value = "Джерси"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Jersey"
 
-* #130 "Vengriya"
+* #130
   * ^designation[0].language = #ru
   * ^designation[=].value = "Венгрия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Hungary"
 
-* #131 "Afgʻoniston"
+* #131
   * ^designation[0].language = #ru
   * ^designation[=].value = "Афганистан"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Afghanistan"
 
-* #132 "Gonkong"
+* #132
   * ^designation[0].language = #ru
   * ^designation[=].value = "Гонконг"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Hong Kong"
 
-* #133 "Gʻarbiy Sahroi Kabir"
+* #133
   * ^designation[0].language = #ru
   * ^designation[=].value = "Западная Сахара"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Western Sahara"
 
-* #134 "Moʻgʻuliston"
+* #134
   * ^designation[0].language = #ru
   * ^designation[=].value = "Монголия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Mongolia"
 
-* #135 "Beliz"
+* #135
   * ^designation[0].language = #ru
   * ^designation[=].value = "Белиз"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Belize"
 
-* #136 "AQSH Virgin orollari"
+* #136
   * ^designation[0].language = #ru
   * ^designation[=].value = "Виргинские Острова"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "United States Virgin Islands"
 
-* #137 "Mikroneziya Federativ Shtatlari"
+* #137
   * ^designation[0].language = #ru
   * ^designation[=].value = "Федеративные Штаты Микронезии"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Micronesia"
 
-* #138 "Sent-Lyusiya"
+* #138
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сент-Люсия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Saint Lucia"
 
-* #139 "Sharqiy Timor"
+* #139
   * ^designation[0].language = #ru
   * ^designation[=].value = "Восточный Тимор"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Timor-Leste"
 
-* #140 "Sen-Bartelemi"
+* #140
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сен-Бартелеми"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Saint Barthelemy"
 
-* #141 "Britaniya Virgin orollari"
+* #141
   * ^designation[0].language = #ru
   * ^designation[=].value = "Британские Виргинские острова"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "British Virgin Islands"
 
-* #142 "Boliviya"
+* #142
   * ^designation[0].language = #ru
   * ^designation[=].value = "Боливия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Bolivia"
 
-* #143 "Bolgariya"
+* #143
   * ^designation[0].language = #ru
   * ^designation[=].value = "Болгария"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Bulgaria"
 
-* #144 "Avstraliya"
+* #144
   * ^designation[0].language = #ru
   * ^designation[=].value = "Австралия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Australia"
 
-* #145 "Yamayka"
+* #145
   * ^designation[0].language = #ru
   * ^designation[=].value = "Ямайка"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Jamaica"
 
-* #146 "Shri-Lanka"
+* #146
   * ^designation[0].language = #ru
   * ^designation[=].value = "Шри-Ланка"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Sri Lanka"
 
-* #147 "Tanzaniya"
+* #147
   * ^designation[0].language = #ru
   * ^designation[=].value = "Танзания"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Tanzania"
 
-* #148 "Kokos orollari"
+* #148
   * ^designation[0].language = #ru
   * ^designation[=].value = "Кокосовые острова"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Cocos (Keeling) Islands"
 
-* #149 "Kabo-Verde"
+* #149
   * ^designation[0].language = #ru
   * ^designation[=].value = "Кабо-Верде"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Cabo Verde"
 
-* #150 "Ummon"
+* #150
   * ^designation[0].language = #ru
   * ^designation[=].value = "Оман"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Oman"
 
-* #151 "Bonayre, Sint-Estatius va Saba"
+* #151
   * ^designation[0].language = #ru
   * ^designation[=].value = "Карибские Нидерланды"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Bonaire, Sint Eustatius and Saba"
 
-* #152 "Turkiya"
+* #152
   * ^designation[0].language = #ru
   * ^designation[=].value = "Турция"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Turkiye"
 
-* #153 "Kiribati"
+* #153
   * ^designation[0].language = #ru
   * ^designation[=].value = "Кирибати"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Kiribati"
 
-* #154 "Efiopiya"
+* #154
   * ^designation[0].language = #ru
   * ^designation[=].value = "Эфиопия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Ethiopia"
 
-* #155 "Pitkern orollari"
+* #155
   * ^designation[0].language = #ru
   * ^designation[=].value = "Острова Питкэрн"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Pitcairn"
 
-* #156 "Armaniston"
+* #156
   * ^designation[0].language = #ru
   * ^designation[=].value = "Армения"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Armenia"
 
-* #157 "Marshall orollari"
+* #157
   * ^designation[0].language = #ru
   * ^designation[=].value = "Маршалловы Острова"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Marshall Islands"
 
-* #158 "Ekvador"
+* #158
   * ^designation[0].language = #ru
   * ^designation[=].value = "Эквадор"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Ecuador"
 
-* #159 "Butan"
+* #159
   * ^designation[0].language = #ru
   * ^designation[=].value = "Бутан"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Bhutan"
 
-* #160 "Kolumbiya"
+* #160
   * ^designation[0].language = #ru
   * ^designation[=].value = "Колумбия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Colombia"
 
-* #161 "Jibuti"
+* #161
   * ^designation[0].language = #ru
   * ^designation[=].value = "Джибути"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Djibouti"
 
-* #162 "Ruanda"
+* #162
   * ^designation[0].language = #ru
   * ^designation[=].value = "Руанда"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Rwanda"
 
-* #163 "Togo"
+* #163
   * ^designation[0].language = #ru
   * ^designation[=].value = "Того"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Togo"
 
-* #164 "Kuba"
+* #164
   * ^designation[0].language = #ru
   * ^designation[=].value = "Куба"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Cuba"
 
-* #165 "Samoa"
+* #165
   * ^designation[0].language = #ru
   * ^designation[=].value = "Самоа"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Samoa"
 
-* #166 "Niderlandiya"
+* #166
   * ^designation[0].language = #ru
   * ^designation[=].value = "Нидерланды"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Netherlands"
 
-* #167 "Germaniya"
+* #167
   * ^designation[0].language = #ru
   * ^designation[=].value = "Германия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Germany"
 
-* #168 "Namibiya"
+* #168
   * ^designation[0].language = #ru
   * ^designation[=].value = "Намибия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Namibia"
 
-* #169 "Jazoir"
+* #169
   * ^designation[0].language = #ru
   * ^designation[=].value = "Алжир"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Algeria"
 
-* #170 "Bagama orollari"
+* #170
   * ^designation[0].language = #ru
   * ^designation[=].value = "Багамские Острова"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Bahamas"
 
-* #171 "Tokelau"
+* #171
   * ^designation[0].language = #ru
   * ^designation[=].value = "Токелау"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Tokelau"
 
-* #172 "Montserrat"
+* #172
   * ^designation[0].language = #ru
   * ^designation[=].value = "Монтсеррат"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Montserrat"
 
-* #173 "Guam"
+* #173
   * ^designation[0].language = #ru
   * ^designation[=].value = "Гуам"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Guam"
 
-* #174 "Chernogoriya"
+* #174
   * ^designation[0].language = #ru
   * ^designation[=].value = "Черногория"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Montenegro"
 
-* #175 "Qirgʻiziston"
+* #175
   * ^designation[0].language = #ru
   * ^designation[=].value = "Киргизия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Kyrgyzstan"
 
-* #176 "Braziliya"
+* #176
   * ^designation[0].language = #ru
   * ^designation[=].value = "Бразилия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Brazil"
 
-* #177 "Buve oroli"
+* #177
   * ^designation[0].language = #ru
   * ^designation[=].value = "Остров Буве"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Bouvet Island"
 
-* #178 "Men oroli"
+* #178
   * ^designation[0].language = #ru
   * ^designation[=].value = "Остров Мэн"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Isle of Man"
 
-* #179 "Qozogʻiston"
+* #179
   * ^designation[0].language = #ru
   * ^designation[=].value = "Казахстан"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Kazakhstan"
 
-* #180 "Yangi Kaledoniya"
+* #180
   * ^designation[0].language = #ru
   * ^designation[=].value = "Новая Каледония"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "New Caledonia"
 
-* #181 "Herd oroli va Makdonald orollari"
+* #181
   * ^designation[0].language = #ru
   * ^designation[=].value = "Остров Херд и острова Макдональд"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Heard Island and McDonald Islands"
 
-* #182 "Gvatemala"
+* #182
   * ^designation[0].language = #ru
   * ^designation[=].value = "Гватемала"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Guatemala"
 
-* #183 "Pokiston"
+* #183
   * ^designation[0].language = #ru
   * ^designation[=].value = "Пакистан"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Pakistan"
 
-* #184 "Belgiya"
+* #184
   * ^designation[0].language = #ru
   * ^designation[=].value = "Бельгия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Belgium"
 
-* #185 "Kongo Respublikasi"
+* #185
   * ^designation[0].language = #ru
   * ^designation[=].value = "Республика Конго"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Republic of the Congo"
 
-* #186 "Kambodja"
+* #186
   * ^designation[0].language = #ru
   * ^designation[=].value = "Камбоджа"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Cambodia"
 
-* #187 "Aruba"
+* #187
   * ^designation[0].language = #ru
   * ^designation[=].value = "Аруба"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Aruba"
 
-* #188 "Kyurasao"
+* #188
   * ^designation[0].language = #ru
   * ^designation[=].value = "Кюрасао"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Curacao"
 
-* #189 "Andorra"
+* #189
   * ^designation[0].language = #ru
   * ^designation[=].value = "Андорра"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Andorra"
 
-* #190 "Iroq"
+* #190
   * ^designation[0].language = #ru
   * ^designation[=].value = "Ирак"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Iraq"
 
-* #191 "Eron"
+* #191
   * ^designation[0].language = #ru
   * ^designation[=].value = "Иран"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Iran"
 
-* #192 "Nigeriya"
+* #192
   * ^designation[0].language = #ru
   * ^designation[=].value = "Нигерия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Nigeria"
 
-* #193 "Polsha"
+* #193
   * ^designation[0].language = #ru
   * ^designation[=].value = "Польша"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Poland"
 
-* #194 "Finlandiya"
+* #194
   * ^designation[0].language = #ru
   * ^designation[=].value = "Финляндия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Finland"
 
-* #195 "Portugaliya"
+* #195
   * ^designation[0].language = #ru
   * ^designation[=].value = "Португалия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Portugal"
 
-* #196 "Reyunion"
+* #196
   * ^designation[0].language = #ru
   * ^designation[=].value = "Реюньон"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Reunion"
 
-* #197 "Zambiya"
+* #197
   * ^designation[0].language = #ru
   * ^designation[=].value = "Замбия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Zambia"
 
-* #198 "Fransuz Gvianasi"
+* #198
   * ^designation[0].language = #ru
   * ^designation[=].value = "Французская Гвиана"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "French Guiana"
 
-* #199 "Mayotta"
+* #199
   * ^designation[0].language = #ru
   * ^designation[=].value = "Майотта"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Mayotte"
 
-* #200 "Kongo Demokratik Respublikasi"
+* #200
   * ^designation[0].language = #ru
   * ^designation[=].value = "Демократическая Республика Конго"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Democratic Republic of the Congo"
 
-* #201 "Sen-Marten"
+* #201
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сен-Мартен"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Saint Martin (French part)"
 
-* #202 "Grenlandiya"
+* #202
   * ^designation[0].language = #ru
   * ^designation[=].value = "Гренландия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Greenland"
 
-* #203 "Amerika Samoasi"
+* #203
   * ^designation[0].language = #ru
   * ^designation[=].value = "Американское Самоа"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "American Samoa"
 
-* #204 "Gvineya"
+* #204
   * ^designation[0].language = #ru
   * ^designation[=].value = "Гвинея"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Guinea"
 
-* #205 "Gernsi"
+* #205
   * ^designation[0].language = #ru
   * ^designation[=].value = "Гернси"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Guernsey"
 
-* #206 "Tayvan"
+* #206
   * ^designation[0].language = #ru
   * ^designation[=].value = "Тайвань"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Taiwan"
 
-* #207 "Amerika Qoʻshma Shtatlari"
+* #207
   * ^designation[0].language = #ru
   * ^designation[=].value = "Соединённые Штаты Америки"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "United States of America"
 
-* #208 "Kosovo"
+* #208
   * ^designation[0].language = #ru
   * ^designation[=].value = "Республика Косово"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Kosovo"
 
-* #209 "Bermud orollari"
+* #209
   * ^designation[0].language = #ru
   * ^designation[=].value = "Бермудские Острова"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Bermuda"
 
-* #210 "Muqaddas Yelena, Meʼroj va Tristan-da-Kunya orollari"
+* #210
   * ^designation[0].language = #ru
   * ^designation[=].value = "Острова Святой Елены, Вознесения и Тристан-да-Кунья"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Saint Helena, Ascension and Tristan da Cunha"
 
-* #211 "Yangi Zelandiya"
+* #211
   * ^designation[0].language = #ru
   * ^designation[=].value = "Новая Зеландия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "New Zealand"
 
-* #212 "Surinam"
+* #212
   * ^designation[0].language = #ru
   * ^designation[=].value = "Суринам"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Suriname"
 
-* #213 "Botsvana"
+* #213
   * ^designation[0].language = #ru
   * ^designation[=].value = "Ботсвана"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Botswana"
 
-* #214 "Fransiyaning janubiy va Antarktika yerlari"
+* #214
   * ^designation[0].language = #ru
   * ^designation[=].value = "Французские Южные и Антарктические территории"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "French Southern Territories"
 
-* #215 "Burundi"
+* #215
   * ^designation[0].language = #ru
   * ^designation[=].value = "Бурунди"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Burundi"
 
-* #216 "Irlandiya"
+* #216
   * ^designation[0].language = #ru
   * ^designation[=].value = "Ирландия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Ireland"
 
-* #217 "Islandiya"
+* #217
   * ^designation[0].language = #ru
   * ^designation[=].value = "Исландия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Iceland"
 
-* #218 "Fransiya"
+* #218
   * ^designation[0].language = #ru
   * ^designation[=].value = "Франция"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "France"
 
-* #219 "Niue"
+* #219
   * ^designation[0].language = #ru
   * ^designation[=].value = "Ниуэ"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Niue"
 
-* #220 "Keniya"
+* #220
   * ^designation[0].language = #ru
   * ^designation[=].value = "Кения"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Kenya"
 
-* #221 "Shpitsbergen va Yan-Mayen"
+* #221
   * ^designation[0].language = #ru
   * ^designation[=].value = "Шпицберген и Ян-Майен"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Svalbard and Jan Mayen"
 
-* #222 "Antarktika"
+* #222
   * ^designation[0].language = #ru
   * ^designation[=].value = "Антарктида"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Antarctica"
 
-* #223 "Falastin"
+* #223
   * ^designation[0].language = #ru
   * ^designation[=].value = "Палестина"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Palestine"
 
-* #224 "Malavi"
+* #224
   * ^designation[0].language = #ru
   * ^designation[=].value = "Малави"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Malawi"
 
-* #225 "Kayman orollari"
+* #225
   * ^designation[0].language = #ru
   * ^designation[=].value = "Каймановы острова"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Cayman Islands"
 
-* #226 "Nauru"
+* #226
   * ^designation[0].language = #ru
   * ^designation[=].value = "Науру"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Nauru"
 
-* #227 "Shvetsiya"
+* #227
   * ^designation[0].language = #ru
   * ^designation[=].value = "Швеция"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Sweden"
 
-* #228 "Gonduras"
+* #228
   * ^designation[0].language = #ru
   * ^designation[=].value = "Гондурас"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Honduras"
 
-* #229 "Gruziya"
+* #229
   * ^designation[0].language = #ru
   * ^designation[=].value = "Грузия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Georgia"
 
-* #230 "Buyuk Britaniya"
+* #230
   * ^designation[0].language = #ru
   * ^designation[=].value = "Великобритания"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "United Kingdom"
 
-* #231 "Tailand"
+* #231
   * ^designation[0].language = #ru
   * ^designation[=].value = "Таиланд"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Thailand"
 
-* #232 "Lixtenshteyn"
+* #232
   * ^designation[0].language = #ru
   * ^designation[=].value = "Лихтенштейн"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Liechtenstein"
 
-* #233 "Angola"
+* #233
   * ^designation[0].language = #ru
   * ^designation[=].value = "Ангола"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Angola"
 
-* #234 "Koreya Respublikasi"
+* #234
   * ^designation[0].language = #ru
   * ^designation[=].value = "Южная Корея"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "South Korea"
 
-* #235 "Benin"
+* #235
   * ^designation[0].language = #ru
   * ^designation[=].value = "Бенин"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Benin"
 
-* #236 "San-Tome va Prinsipi"
+* #236
   * ^designation[0].language = #ru
   * ^designation[=].value = "Сан-Томе и Принсипи"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Sao Tome and Principe"
 
-* #237 "Litva"
+* #237
   * ^designation[0].language = #ru
   * ^designation[=].value = "Литва"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Lithuania"
 
-* #238 "Yaponiya"
+* #238
   * ^designation[0].language = #ru
   * ^designation[=].value = "Япония"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Japan"
 
-* #239 "Oʻzbekiston"
+* #239
   * ^designation[0].language = #ru
   * ^designation[=].value = "Узбекистан"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Uzbekistan"
 
-* #240 "Gayana"
+* #240
   * ^designation[0].language = #ru
   * ^designation[=].value = "Гайана"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Guyana"
 
-* #241 "Shimoliy Mariana orollari"
+* #241
   * ^designation[0].language = #ru
   * ^designation[=].value = "Северные Марианские острова"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Northern Mariana Islands"
 
-* #242 "Sudan"
+* #242
   * ^designation[0].language = #ru
   * ^designation[=].value = "Судан"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Sudan"
 
-* #243 "Janubiy Afrika Respublikasi"
+* #243
   * ^designation[0].language = #ru
   * ^designation[=].value = "Южная Африка"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "South Africa"
 
-* #244 "Trinidad va Tobago"
+* #244
   * ^designation[0].language = #ru
   * ^designation[=].value = "Тринидад и Тобаго"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Trinidad and Tobago"
 
-* #245 "Palau"
+* #245
   * ^designation[0].language = #ru
   * ^designation[=].value = "Палау"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Palau"
 
-* #246 "Martinika"
+* #246
   * ^designation[0].language = #ru
   * ^designation[=].value = "Мартиника"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Martinique"
 
-* #247 "Indoneziya"
+* #247
   * ^designation[0].language = #ru
   * ^designation[=].value = "Индонезия"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Indonesia"
 
-* #248 "Turks va Kaykos orollari"
+* #248
   * ^designation[0].language = #ru
   * ^designation[=].value = "Теркс и Кайкос"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Turks and Caicos Islands"
 
-* #249 "Kanada"
+* #249
   * ^designation[0].language = #ru
   * ^designation[=].value = "Канада"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Canada"
 
-* #250 "Solomon orollari"
+* #250
   * ^designation[0].language = #ru
   * ^designation[=].value = "Соломоновы Острова"
-  * ^designation[+].language = #en
-  * ^designation[=].value = "Solomon Islands"
 

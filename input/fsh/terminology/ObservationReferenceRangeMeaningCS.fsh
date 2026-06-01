@@ -1,8 +1,8 @@
-CodeSystem: ReferenceRangeMeaningCS
-Id: reference-range-meaning-cs
-Title: "Reference range meaning translations"
-Description: "Meaning of reference range, supplemented with translations in Uzbek and Russian"
-* insert SupplementCodeSystemDraft(reference-range-meaning-cs, $reference-meaning, 5.0.0)
+CodeSystem: ObservationReferenceRangeMeaningCS
+Id: observation-reference-range-meaning-cs
+Title: "Observation reference range meaning translations"
+Description: "Observation reference range meaning supplement with translations in Uzbek and Russian"
+* insert SupplementCodeSystemDraft(observation-reference-range-meaning-cs, $reference-meaning, 5.0.0)
 
 * #type
   * ^designation[0].language = #ru
