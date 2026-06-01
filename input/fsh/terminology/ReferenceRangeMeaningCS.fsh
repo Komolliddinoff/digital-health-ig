@@ -6,66 +6,66 @@ Description: "Meaning of reference range, supplemented with translations in Uzbe
 
 * #type
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Тип"
+  * ^designation[=].value = "тип"
   * ^designation[+].language = #uz
-  * ^designation[=].value = "Tur"
+  * ^designation[=].value = "tur"
 * #normal
-  * ^designation[0].language = #uz
-  * ^designation[=].value = "Normal diapazon"
-  * ^designation[+].language = #ru
-  * ^designation[1].value = "Нормальный диапазон"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "норма"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "normal / me’yor"
 * #recommended
-  * ^designation[0].language = #uz
-  * ^designation[0].value = "Tavsiya etilgan diapazon"
-  * ^designation[1].language = #ru
-  * ^designation[1].value = "Рекомендуемый диапазон"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "рекомендованный"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "tavsiya etilgan"
 * #treatment
-  * ^designation[0].language = #uz
-  * ^designation[0].value = "Davolash diapazoni"
-  * ^designation[1].language = #ru
-  * ^designation[1].value = "Диапазон лечения"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "лечение"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "davolash"
 * #therapeutic
-  * ^designation[0].language = #uz
-  * ^designation[0].value = "Terapevtik maqsadli daraja"
-  * ^designation[1].language = #ru
-  * ^designation[1].value = "Терапевтически желаемый уровень"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "терапевтический"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "terapevtik"
 * #pre
-  * ^designation[0].language = #uz
-  * ^designation[0].value = "Terapiyagacha bo‘lgan maqsadli daraja"
-  * ^designation[1].language = #ru
-  * ^designation[1].value = "Желаемый уровень до начала терапии"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "до"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "oldin"
 * #post
-  * ^designation[0].language = #uz
-  * ^designation[0].value = "Terapiyadan keyingi maqsadli daraja"
-  * ^designation[1].language = #ru
-  * ^designation[1].value = "Желаемый уровень после проведения терапии"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "после"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "keyin"
 * #endocrine
-  * ^designation[0].language = #uz
-  * ^designation[0].value = "Endokrin"
-  * ^designation[1].language = #ru
-  * ^designation[1].value = "Эндокринная"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "эндокринный"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "endokrin"
 * #pre-puberty
-  * ^designation[0].language = #uz
-  * ^designation[0].value = "Balog‘atgacha bo‘lgan davr"
-  * ^designation[1].language = #ru
-  * ^designation[1].value = "Допубертатный период"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "до полового созревания"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "balog‘atgacha"
 * #follicular
-  * ^designation[0].language = #uz
-  * ^designation[0].value = "Follikulyar bosqich"
-  * ^designation[1].language = #ru
-  * ^designation[1].value = "Фолликулярная стадия"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "фолликулярная фаза"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "follikulyar faza"
 * #midcycle
-  * ^designation[0].language = #uz
-  * ^designation[0].value = "O‘rtacha sikl"
-  * ^designation[1].language = #ru
-  * ^designation[1].value = "Средний цикл"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "середина цикла"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "sikl o‘rtasi"
 * #luteal
-  * ^designation[0].language = #uz
-  * ^designation[0].value = "Lyuteinli"
-  * ^designation[1].language = #ru
-  * ^designation[1].value = "Лютеиновая"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "лютеиновая фаза"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "lyuteal faza"
 * #postmenopausal
-  * ^designation[0].language = #uz
-  * ^designation[0].value = "Postmenopauza"
-  * ^designation[1].language = #ru
-  * ^designation[1].value = "Постменопауза"
+  * ^designation[0].language = #ru
+  * ^designation[=].value = "постменопауза"
+  * ^designation[+].language = #uz
+  * ^designation[=].value = "menopauzadan keyin"
