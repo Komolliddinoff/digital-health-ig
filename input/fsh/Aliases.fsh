@@ -131,6 +131,7 @@ Alias: $triggered-by-type = http://hl7.org/fhir/observation-triggeredbytype
 Alias: $ucum = http://unitsofmeasure.org
 // Alias: $ucum-vs = http://terminology.hl7.org/ValueSet/ucum-common
 Alias: $unknownpatient = https://dhp.uz/fhir/core/sid/pid/uz/mrt
+Alias: $usage-context-type = http://terminology.hl7.org/CodeSystem/usage-context-type
 Alias: $uzpharm-agency = https://uzpharmagency.uz/pharm_id
 Alias: $uzpharmBoxGroupID = https://uzpharminfo.uz/box_group_id
 Alias: $v2-0131 = http://terminology.hl7.org/CodeSystem/v2-0131
