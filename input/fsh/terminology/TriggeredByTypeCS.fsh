@@ -1,21 +1,23 @@
 CodeSystem: TriggeredByTypeCS
-Id: triggered-bytype-cs
-Title: "Triggered by type translations"
-Description: "Triggered by type supplement with translations in Uzbek and Russian"
-* insert SupplementCodeSystemDraft(triggered-bytype-cs, $triggered-by-type, 5.0.0)
+Id: triggered-by-type-cs
+Title: "Triggered By Type"
+Description: "TriggeredBy type codes with Uzbek and Russian translations"
+* insert SupplementCodeSystemDraft(triggered-by-type-cs, $observation-triggeredbytype-cs, 5.0.0)
 
 * #reflex
-  * ^designation[0].language = #ru
-  * ^designation[=].value = "Рефлекс"
-  * ^designation[+].language = #uz
+  * ^designation[0].language = #uz
   * ^designation[=].value = "Refleks"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Рефлекс"
+
 * #repeat
-  * ^designation[0].language = #ru
-  * ^designation[=].value = "Повторение"
-  * ^designation[+].language = #uz
+  * ^designation[0].language = #uz
   * ^designation[=].value = "Takrorlash"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Повторение"
+
 * #re-run
-  * ^designation[0].language = #ru
-  * ^designation[=].value = "Перезапуск"
-  * ^designation[+].language = #uz
+  * ^designation[0].language = #uz
   * ^designation[=].value = "Qaytadan ishga tushirish"
+  * ^designation[+].language = #ru
+  * ^designation[=].value = "Перезапуск"
