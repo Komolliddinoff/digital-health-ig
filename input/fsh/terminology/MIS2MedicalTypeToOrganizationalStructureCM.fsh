@@ -9,6 +9,8 @@ Description: "Maps MIS2 medical type codes to UZ Core Organizational Structure c
 * experimental = false
 * publisher = "Uzinfocom"
 
+
+
 // Group 1: MIS2 mapping to OrganizationalStructureCS
 * group[+].source = $ssv-organization-type-medical
 * group[=].target = Canonical(OrganizationalStructureCS)

@@ -1,4 +1,4 @@
-// Alias: $encounter-class = https://terminology.dhp.uz/fhir/core/ValueSet/encounter-class
+cvx// Alias: $encounter-class = https://terminology.dhp.uz/fhir/core/ValueSet/encounter-class
 Alias: $action-participant-type = http://hl7.org/fhir/action-participant-type
 Alias: $event-status = http://hl7.org/fhir/event-status
 Alias: $address-type = http://hl7.org/fhir/address-type
