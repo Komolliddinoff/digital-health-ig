@@ -6,7 +6,7 @@ Description: "EpisodeOfCare status supplement with translation in Uzbek and Russ
 
 * #planned
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Планируется"
+  * ^designation[=].value = "В процессе планирования"
   * ^designation[+].language = #uz
   * ^designation[=].value = "Rejalashtirilgan"
 * #waitlist
@@ -21,12 +21,12 @@ Description: "EpisodeOfCare status supplement with translation in Uzbek and Russ
   * ^designation[=].value = "Faol"
 * #onhold
   * ^designation[0].language = #ru
-  * ^designation[=].value = "На удержании"
+  * ^designation[=].value = "В режиме ожидания"
   * ^designation[+].language = #uz
-  * ^designation[=].value = "Ushlab turish"
+  * ^designation[=].value = "Kutishda"
 * #finished
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Закончен"
+  * ^designation[=].value = "Завершено"
   * ^designation[+].language = #uz
   * ^designation[=].value = "Tugallangan"
 * #cancelled
@@ -36,6 +36,6 @@ Description: "EpisodeOfCare status supplement with translation in Uzbek and Russ
   * ^designation[=].value = "Bekor qilingan"
 * #entered-in-error
   * ^designation[0].language = #ru
-  * ^designation[=].value = "Введено с ошибкой"
+  * ^designation[=].value = "Введено по ошибке"
   * ^designation[+].language = #uz
   * ^designation[=].value = "Xato bilan kiritilgan"  

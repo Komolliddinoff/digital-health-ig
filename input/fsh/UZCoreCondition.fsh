@@ -9,7 +9,7 @@ Description: "Uzbekistan Core Condition profile, used for documenting a patient'
 * clinicalStatus MS
 * clinicalStatus from ClinicalStatusVS
 * verificationStatus MS
-* verificationStatus from ConditionVerificationStatusVS
+* verificationStatus from ConditionVerificationStatusVS (required)
 * severity MS
 * severity from ConditionSeverityVS (preferred)
   * ^binding.additional[+].purpose = #required

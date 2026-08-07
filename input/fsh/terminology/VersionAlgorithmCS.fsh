@@ -10,7 +10,7 @@ Description: "Version algorithm types in Uzbekistan"
   * ^designation[+].language = #uz
   * ^designation[=].value = "Semantik versiyalash"
 
-* #integer
+* #integerPe
   * ^designation[0].language = #ru
   * ^designation[=].value = "Целое число"
   * ^designation[+].language = #uz
