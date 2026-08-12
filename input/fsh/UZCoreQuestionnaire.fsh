@@ -55,15 +55,17 @@ Description: "Uzbekistan Core Questionnaire profile for multilingual structured 
   * answerConstraint MS
   * answerValueSet MS
 
-  // Answer options with translation support
+
   * answerOption MS
     * value[x] MS
     * valueCoding MS
     * valueCoding from $trimester (required)
     * valueCoding.display.extension contains $translation-extension named translation 0..* MS
       * ^short = "Answer option display (in Russian and Karakalpak languages)"
-  // Initial value
+
   * initial MS
 
-  // Nested items
+  * item[trimester].answerOption.valueCoding from $trimester (required)
+
+
   * item MS
