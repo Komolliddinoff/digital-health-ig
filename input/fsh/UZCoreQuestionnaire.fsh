@@ -59,9 +59,9 @@ Description: "Uzbekistan Core Questionnaire profile for multilingual structured 
   * answerOption MS
     * value[x] MS
     * valueCoding MS
+    * valueCoding from $trimester (required)
     * valueCoding.display.extension contains $translation-extension named translation 0..* MS
       * ^short = "Answer option display (in Russian and Karakalpak languages)"
-
   // Initial value
   * initial MS
 
